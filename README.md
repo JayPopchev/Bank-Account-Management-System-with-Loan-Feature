@@ -1,4 +1,4 @@
-# Bank-Account-Management-System-with-Loan-Feature
+# Bank Account Management System with Loan Feature
 
 # Features
 - Account Creation: Create a new account with a valid name.
